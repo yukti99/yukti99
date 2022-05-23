@@ -9,9 +9,9 @@
 <b>About Me:</b>
 
 - 👨‍🎓 I am currently a MS CS student at <a href="https://www.columbia.edu/">Columbia University </a>
-- 👨‍🎓 I have completed my BE from <a href="https://www.pict.edu/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.
-- 💻 I have worked as a Spring Technology Analyst Intern at <a href="https://www.morganstanley.com/">Morgan Stanley</a> and as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
-- 💼 I have designed entire Library Management And Book Grant System for <br> <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
+- 👨‍🎓 I have completed my BTech from <a href="https://www.pict.edu/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.
+- 💻 I have worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi</a>
+- 💼 
 - 👨‍💻 I like to develop applications that solve real life problems. 
 - 👨‍💻 I have designed competitive coding <br>questions for platforms like HackerEarth and Interview Mocha.
 - 👨‍💻 I am a Full Stack Web Developer and Mobile App developer.
