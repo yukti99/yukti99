@@ -17,8 +17,6 @@
 - :woman_technologist: I like to develop applications that solve real life problems. 
 - :woman_technologist: I am a Full Stack Developer, Backend Software Engineer and Mobile App developer.
 - :girl: I have actively volunteered for various NGO's like HOPE of People Everywhere and organized education and child rights awareness campaigns. 
-- ⚡  I’m looking to collaborate  with people who share similar gist <br> for developing software applications.
-- 😄 I have actively conducted computer science workshops in my college.
  
 <h2> Worked With </h2>
 <p>
