@@ -1,6 +1,6 @@
 #  :wave: Hi, I'm Yukti! <img height="50" width="50" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center"> 
  
-<p>
+<p align="center">
  <em>
     I am a Computer Science student who believes that coding is a language of creativity and innovation which leads the path to a better future by simply helping one learn, how to think.
  </em>
