@@ -1,36 +1,27 @@
-## Hi there, :raising_hand_woman: I'm Yukti!
+# :wave: Hi, I'm Yukti! <img height="30" width="35" align="center" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/woman-technologist-facebook.png" />
+ 
 <p>
  <em>
     I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to develop user-friendly software applications aimed at solving real-world problems
  </em>
-  </p>
+</p>
+  <img height="300" width="550" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
   
-  <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
-<b>About Me:</b>
+<h2> About me </h2>
 
+- :woman_student: I am pursuing Masters in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a> with a current GPA of 4.0/4.0.
+- :woman_student: I have completed my Bachelors of Technology from <a href="https://www.pict.edu/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.0.
 - 💻 I am currently a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc.</a> where I am working with technologies like Ruby on Rails, GraphQL and React.
-- 👨‍🎓 I am currently a MS CS student at <a href="https://www.columbia.edu/">Columbia University </a>
-- 👨‍🎓 I have completed my BTech from <a href="https://www.pict.edu/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.
 - 💻 I have worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi</a>
-- 💼 
-- 👨‍💻 I like to develop applications that solve real life problems. 
-- 👨‍💻 I have designed competitive coding <br>questions for platforms like HackerEarth and Interview Mocha.
-- 👨‍💻 I am a Full Stack Web Developer and Mobile App developer.
-- ⚡  I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
-- 😄 I actively conduct coding seminars and workshops in my college.
-
+- :woman_technologist: I like to develop applications that solve real life problems. 
+- :woman_technologist: I am a Full Stack Developer, Backend Software Engineer and Mobile App developer.
+- :girl: I have actively volunteered for various NGO's like HOPE of People Everywhere and organized education and child rights awareness campaigns. 
+- ⚡  I’m looking to collaborate  with people who share similar gist <br> for developing software applications.
+- 😄 I have actively conducted computer science workshops in my college.
  
- <br><br>
-## Worked With
-
+<h2> Worked With </h2>
 <p>
-<!--NodeJS-->
-<code><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
-<!--Express-->
-<code><img height="40" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
-<!--React-->
-<code><img height="40" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
-<!--Python-->
+ <!--Python-->
 <code><img height="40" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></code>
 <!--C++-->
 <code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
@@ -38,24 +29,20 @@
 <code><img height="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /></code>
 <!--C-->
 <code><img height="40" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></code>
-<!--Flutter-->
-<code><img height="40" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></code>
-<!--Android-->
-<code><img height="40" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /></code>
-<!--Dart-->
-<code><img height="40" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /></code>
-<!--PHP-->
-<code><img height="40" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /></code>
-<!--HTML-->
+ <!--HTML-->
 <code><img height="40" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></code>
 <!--CSS-->
 <code><img height="40" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></code>
 <!--JS-->
 <code><img height="40" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+<!--NodeJS-->
+<code><img height="40" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
+<!--React-->
+<code><img height="40" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+<!--Android-->
+<code><img height="40" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /></code>
 <!--Bootstrap-->
 <code><img height="40" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
-<!--Material Ui-->
-<code><img height="40" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" /></code>
 <!--JQUERY-->
 <code><img height="40" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></code>
 <!--MYSQL-->
@@ -64,26 +51,23 @@
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 </p>
 
-
-### GitHub Stats
+<h2>  GitHub Stats </h2>
 <p align="center">
-  <a href="https://github.com/yashagarwal1999">
-    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=yukti99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/yukti99">
+    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=yukti99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" align="center"/>
   </a>
-  </p>
-  
- ### Top Languages: 
- <p align="center">
-  <a href="https://github.com/yashagarwal1999">
+</p>
+<h2> Top Languages </h2>
+<p align="center">
+  <a href="https://github.com/yukti99">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=yukti99&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" align="center" />
  </a>
  </p>
 
-
-### Follow Me:
-<p>
-<a href="https://www.linkedin.com/in/yukti99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/yukti._.khurana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;  
- </p>
+<h2> Follow me </h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/yukti99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/yukti._.khurana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp; <a href="https://github.com/yukti99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp; 
+</p>
 
 
  
@@ -91,4 +75,8 @@
 
 <!-- - 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 <!-- -->
+
+
+
+
 
