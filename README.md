@@ -1,8 +1,8 @@
-# :wave: Hi, I'm Yukti! <img height="30" width="35" align="center" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/woman-technologist-facebook.png" />
+#  Hi, I'm Yukti! :wave: <img height="30" width="35" align="center" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/woman-technologist-facebook.png" />
  
 <p>
  <em>
-    I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack of developing user-friendly software applications aimed at solving real-world problems
+    <img height="50" width="50" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center"> I am a Computer Science student with a knack of developing user-friendly software applications aimed at solving real-world problems  
  </em>
 </p>
  
@@ -64,7 +64,7 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></code>
 </p>
 
-<h2>  GitHub Stats </h2>
+<h2> GitHub Stats </h2>
 <p align="center">
   <a href="https://github.com/yukti99">
     <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=yukti99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" align="center"/>
