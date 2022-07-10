@@ -10,8 +10,8 @@
 <h2> About Me </h2>
  <img height="350" width="450" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
 
-- :woman_student: I am pursuing Masters in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a> with a current GPA of 4.0/4.0.
-- :woman_student: I have completed my Bachelors of Technology from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.0.
+- :woman_student: I am pursuing MS in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a> with a current GPA of 4.0/4.0.
+- :woman_student: I have completed my B.Tech. from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.0.
 - 💻 I am currently a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc., New York</a> where I am working with technologies like Ruby on Rails, GraphQL and React.
 - 💻 I have worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi.</a>
 - :woman_technologist: I am a Computer Science enthusiast who is interested in Software Engineering and Machine Learning.
