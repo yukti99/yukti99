@@ -1,13 +1,14 @@
-## Hi there, 🙋‍♂️ I'm Yukti!
+## Hi there, :raising_hand_woman: I'm Yukti!
 <p>
  <em>
-    I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to build products that will help make people's life simpler. 
+    I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to develop user-friendly software applications aimed at solving real-world problems
  </em>
   </p>
   
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 <b>About Me:</b>
 
+- 💻 I am currently a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc.</a> where I am working with technologies like Ruby on Rails, GraphQL and React.
 - 👨‍🎓 I am currently a MS CS student at <a href="https://www.columbia.edu/">Columbia University </a>
 - 👨‍🎓 I have completed my BTech from <a href="https://www.pict.edu/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.
 - 💻 I have worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi</a>
