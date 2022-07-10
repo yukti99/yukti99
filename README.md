@@ -12,9 +12,9 @@
 
 - :woman_student: I am pursuing Masters in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a> with a current GPA of 4.0/4.0.
 - :woman_student: I have completed my Bachelors of Technology from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.0.
-- 💻 I am currently a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc.</a> where I am working with technologies like Ruby on Rails, GraphQL and React.
-- 💻 I have worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi</a>
-- :woman_technologist: I like to develop applications that solve real life problems. 
+- 💻 I am currently a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc., New York</a> where I am working with technologies like Ruby on Rails, GraphQL and React.
+- 💻 I have worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi.</a>
+- :woman_technologist: I am a Computer Science enthusiast who is interested in Software Engineering and Machine Learning.
 - :woman_technologist: I am a Full Stack Developer, Backend Software Engineer and Mobile App developer.
 - :girl: I have actively volunteered for various NGO's like HOPE of People Everywhere and organized education and child rights awareness campaigns. 
  
