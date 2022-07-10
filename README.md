@@ -5,9 +5,11 @@
     I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to develop user-friendly software applications aimed at solving real-world problems
  </em>
 </p>
-  <img height="300" width="550" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
+ 
   
 <h2> About me </h2>
+ <img height="350" width="550" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
+
 
 - :woman_student: I am pursuing Masters in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a> with a current GPA of 4.0/4.0.
 - :woman_student: I have completed my Bachelors of Technology from <a href="https://www.pict.edu/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.0.
