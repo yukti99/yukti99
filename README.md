@@ -2,7 +2,7 @@
  
 <p>
  <em>
-    I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to develop user-friendly software applications aimed at solving real-world problems
+    I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack of developing user-friendly software applications aimed at solving real-world problems
  </em>
 </p>
  
