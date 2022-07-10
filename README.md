@@ -1,8 +1,8 @@
-#  Hi, I'm Yukti! :wave: <img height="30" width="35" align="center" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/woman-technologist-facebook.png" />
+#  :wave: Hi, I'm Yukti! <img height="50" width="50" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center"> 
  
 <p>
  <em>
-    <img height="50" width="50" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center"> I am a Computer Science student with a knack of developing user-friendly software applications aimed at solving real-world problems  
+    I am a Computer Science student with a knack of developing user-friendly software applications aimed at solving real-world problems  
  </em>
 </p>
  
