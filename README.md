@@ -79,5 +79,8 @@
 
 <h2> Follow me </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/yukti99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/yukti._.khurana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp; <a href="https://github.com/yukti99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp; 
+<a href="https://www.linkedin.com/in/yukti99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/yukti._.khurana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp; <a href="https://www.hackerrank.com/yukti99"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg"/></a>
 </p>
+
+<!-- <a href="https://github.com/yukti99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp;
+ -->
