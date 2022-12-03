@@ -66,16 +66,17 @@
 
 <h2> GitHub Stats </h2>
 <p align="center">
-  <a href="https://github.com/yukti99">
-    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=yukti99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" align="center"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=yukti99" align="center"/>
 </p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukti99&theme=github" align="center"/>
+</p>
+
+
 <h2> Top Languages </h2>
 <p align="center">
-  <a href="https://github.com/yukti99">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=yukti99&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" align="center" />
- </a>
- </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukti99&layout=compact" align="center"/>
+</p>
 
 <h2> Follow me </h2>
 <p align="center">
