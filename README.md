@@ -16,7 +16,7 @@
 - 💻 Previously, I have worked as a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc., New York</a> where I used technologies like Ruby on Rails, GraphQL and React. I have also worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi.</a>
 - :woman_technologist: I am a Computer Science enthusiast who strives to exploit Software Engineering and Machine Learning to develop user-friendly applications aimed at solving real-world problems.
 - :woman_technologist: I am a Full Stack Developer, Backend Software Engineer and Mobile App developer.
-- :girl: I have actively volunteered for various NGO's like HOPE of People Everywhere and organized education and child rights awareness campaigns. 
+- :girl: I actively volunteer for promoting representation in Tech at my company. Previously, I have volunteered for various NGO's like HOPE of People Everywhere and organized education and child rights awareness campaigns. 
  
 <h2> Worked With </h2>
 <p>
