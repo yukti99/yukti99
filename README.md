@@ -2,7 +2,7 @@
  
 <p align="center">
  <em>
-    I am a Computer Science student who believes that coding is a language of creativity and innovation which leads the path to a better future by simply helping one learn, how to think.
+    I am a Software Engineer who believes that coding is a language of creativity and innovation which leads the path to a better future by simply helping one learn, how to think.
  </em>
 </p>
  
