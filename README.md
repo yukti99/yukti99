@@ -8,7 +8,7 @@
  
   
 <h2> About Me </h2>
- <img height="350" width="450" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
+ <img height="350" width="450" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
 - :woman_technologist: I am currently working as a Software Engineer at <a href="https://home.barclays/"> Barclays </a>.
 - :woman_student: I graduated with Masters in Computer Science degree from <a href="https://www.columbia.edu/">Columbia University, New York </a> with a GPA of 4.0/4.0.
