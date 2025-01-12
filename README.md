@@ -2,7 +2,7 @@
  
 <p align="center">
  <em>
-    I am a Software Engineer who believes that coding is a language of creativity and innovation which leads the path to a better future by simply helping one learn, how to think.
+    I am a Software Engineer who believes that coding is a language of creativity and innovation which leads the path to a better future by simply helping one learn - how to think.
  </em>
 </p>
  
@@ -78,10 +78,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukti99&layout=compact" align="center"/>
 </p>
 
-<h2> Follow me </h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/yukti99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/yukti._.khurana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp; <a href="https://www.hackerrank.com/yukti99"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg"/></a>
-</p>
+<div style="text-align: center; margin: 50px 0;">
+  <h2 style="font-size: 3em; color: #2d2d2d; font-weight: bold; margin-bottom: 20px;">Professional Profile</h2>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/yukti99/" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge" 
+      style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);"
+    />
+  </a>
+ </p>
+</div>
+
 
 <!-- <a href="https://github.com/yukti99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp;
  -->
