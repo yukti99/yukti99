@@ -11,8 +11,8 @@
  <img height="350" width="450" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
 - :woman_technologist: I am currently working as a Software Engineer at <a href="https://home.barclays/"> Barclays </a>.
-- :woman_student: I graduated with Masters in Computer Science degree from <a href="https://www.columbia.edu/">Columbia University, New York </a> with a GPA of 4.0/4.0.
-- :woman_student: I have completed my B.Tech. from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of 9.31/10.0.
+- :woman_student: I graduated with Masters in Computer Science degree from <a href="https://www.columbia.edu/">Columbia University, New York </a> with a GPA of <b>4.0/4.0</b>.
+- :woman_student: I have completed my B.Tech. from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of <b>9.31/10.0</b>.
 - 💻 Previously, I have worked as a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc., New York</a> where I used technologies like Ruby on Rails, GraphQL and React. I have also worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi.</a>
 - :woman_technologist: I am a Computer Science enthusiast who strives to exploit Software Engineering and Machine Learning to develop user-friendly applications aimed at solving real-world problems.
 - :woman_technologist: I am a Full Stack Developer, Backend Software Engineer and Mobile App developer.
@@ -26,6 +26,8 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <!--Java-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /></code>
+<!--Scala-->
+<code><img height="30" width="70" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white" /></code>
 <!--C-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></code>
  <!--HTML-->
@@ -46,6 +48,10 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></code>
 <!--MYSQL-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>
+ <!--SPARK-->
+<code><img height="30" width="140" src="https://img.shields.io/badge/apache_spark-%23E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white" /></code>
+ <!--HADOOP-->
+<code><img height="30" width="140" src="https://img.shields.io/badge/apache_hadoop-%2320B2AA.svg?&style=for-the-badge&logo=apachehadoop&logoColor=white" /></code>
 <!--MongoDB-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 <!--GraphQL-->
