@@ -1,14 +1,17 @@
-# 👋 Hi, I'm Yukti Khurana <img height="45" width="45" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center">
+<h1 align="center">
+  👋 Hi, I'm Yukti Khurana
+  <img height="42" width="42" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center">
+</h1>
 
-<h3 align="center">
-Software Engineer
-<br>
-Building Scalable Systems, Cloud Applications & AI-Powered Products
-</h3>
+<p align="center">
+  <strong>Software Engineer</strong>
+  <br>
+  <b>Building scalable systems, cloud applications, and AI-powered products</b>
+</p>
 
 <p align="center">
   <em>
-    I enjoy building reliable software that blends strong engineering fundamentals with practical user impact.
+     I enjoy building reliable software that blends strong engineering fundamentals with practical user impact.
   </em>
 </p>
 
@@ -19,13 +22,16 @@ Building Scalable Systems, Cloud Applications & AI-Powered Products
 <img height="330" width="430" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
 - 👩‍💻 I am currently working as a Software Engineer at <a href="https://home.barclays/">Barclays</a>, building scalable financial technology systems that power risk calculations, regulatory reporting, cloud-based applications, and large-scale data processing.
-- 🎓 I completed my Mas in Computer Science, Machine Learning Track, from <a href="https://www.columbia.edu/">Columbia University, New York</a> with a GPA of <b>4.0/4.0</b>.
+- 🎓 I completed my Masters in Computer Science with specialization in Machine Learning, from <a href="https://www.columbia.edu/">Columbia University, New York</a> with a GPA of <b>4.0/4.0</b>.
 - 🎓 I completed my B.Tech. in Computer Science and Engineering from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a>, graduating in the <b>Top 3%</b>.
 - 💻 Previously, I worked as a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc.</a>, where I worked with Ruby on Rails, GraphQL, React, CI/CD, and customer-facing web systems.
-- 💻 I also worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a>, building and deploying a full-stack Android application using Java, AWS, MongoDB, and Parse Server.
+- 💻 I have also worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a>, building and deploying a full-stack Android mobile application using Java, AWS, MongoDB, and Parse Server.
 - 🚀 My technical interests include scalable systems, backend engineering, cloud infrastructure, AI-powered products, automation, and developer-friendly platforms.
 - 🌱 I actively volunteer for representation in tech and have previously supported education and child-rights awareness initiatives through nonprofit work.
 
+<!-- <p align="center">
+  <img height="280" width="380" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
+</p> -->
 ---
 
 ## Tech Stack
