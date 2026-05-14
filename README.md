@@ -1,102 +1,113 @@
-#  :wave: Hi, I'm Yukti! <img height="50" width="50" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center"> 
- 
-<p align="center">
- <em>
-    I am a Software Engineer who believes that coding is a language of creativity and innovation which leads the path to a better future by simply helping one learn - how to think.
- </em>
-</p>
- 
-  
-<h2> About Me </h2>
- <img height="350" width="450" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
+# 👋 Hi, I'm Yukti Khurana <img height="45" width="45" src="https://media3.giphy.com/media/rsUGLKwgSvSxmq1VrZ/200w.gif" align="center">
 
-- :woman_technologist: I am currently working as a Software Engineer at <a href="https://home.barclays/"> Barclays </a>.
-- :woman_student: I graduated with Masters in Computer Science degree from <a href="https://www.columbia.edu/">Columbia University, New York </a> with a GPA of <b>4.0/4.0</b>.
-- :woman_student: I have completed my B.Tech. from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> with a CGPA of <b>9.31/10.0</b>.
-- 💻 Previously, I have worked as a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc., New York</a> where I used technologies like Ruby on Rails, GraphQL and React. I have also worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a> and as a Software Intern at <a href="https://cris.org.in/">Centre for Railways Information Systems, New Delhi.</a>
-- :woman_technologist: I am a Computer Science enthusiast who strives to exploit Software Engineering and Machine Learning to develop user-friendly applications aimed at solving real-world problems.
-- :woman_technologist: I am a Full Stack Developer, Backend Software Engineer and Mobile App developer.
-- :girl: I actively volunteer for promoting representation in Tech at my company. Previously, I have volunteered for various NGO's like HOPE of People Everywhere and organized education and child rights awareness campaigns. 
- 
-<h2> Worked With </h2>
+<h3 align="center">
+Software Engineer
+<br>
+Building Scalable Systems, Cloud Applications & AI-Powered Products
+</h3>
+
+<p align="center">
+  <em>
+    I enjoy building reliable software that blends strong engineering fundamentals with practical user impact.
+  </em>
+</p>
+
+---
+
+## Professional Overview
+
+<img height="330" width="430" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
+
+- 👩‍💻 I am currently working as a Software Engineer at <a href="https://home.barclays/">Barclays</a>, building scalable financial technology systems that power risk calculations, regulatory reporting, cloud-based applications, and large-scale data processing.
+- 🎓 I completed my Mas in Computer Science, Machine Learning Track, from <a href="https://www.columbia.edu/">Columbia University, New York</a> with a GPA of <b>4.0/4.0</b>.
+- 🎓 I completed my B.Tech. in Computer Science and Engineering from <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a>, graduating in the <b>Top 3%</b>.
+- 💻 Previously, I worked as a Software Engineer Intern at <a href="https://www.justworks.com/">Justworks, Inc.</a>, where I worked with Ruby on Rails, GraphQL, React, CI/CD, and customer-facing web systems.
+- 💻 I also worked as a Software Engineer Intern at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a>, building and deploying a full-stack Android application using Java, AWS, MongoDB, and Parse Server.
+- 🚀 My technical interests include scalable systems, backend engineering, cloud infrastructure, AI-powered products, automation, and developer-friendly platforms.
+- 🌱 I actively volunteer for representation in tech and have previously supported education and child-rights awareness initiatives through nonprofit work.
+
+---
+
+## Tech Stack
+
+### Languages
 <p>
- <!--Python-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></code>
-<!--C++-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
-<!--Java-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /></code>
-<!--Scala-->
-<code><img height="30" width="70" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white" /></code>
-<!--C-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></code>
- <!--HTML-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></code>
-<!--CSS-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></code>
-<!--JS-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
-<!--NodeJS-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
-<!--React-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
-<!--Android-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /></code>
-<!--Bootstrap-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
-<!--JQUERY-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></code>
-<!--MYSQL-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>
- <!--SPARK-->
-<code><img height="30" width="140" src="https://img.shields.io/badge/apache_spark-%23E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white" /></code>
- <!--HADOOP-->
-<code><img height="30" width="140" src="https://img.shields.io/badge/apache_hadoop-%2320B2AA.svg?&style=for-the-badge&logo=apachehadoop&logoColor=white" /></code>
-<!--MongoDB-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<!--GraphQL-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></code>
-<!--Ruby-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" /></code>
- <!--NextJs-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></code>
-  <!--AWS-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></code>
- <!--Jupyter-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></code>
-  <!--LaTex-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></code>
-   <!--Scikit-learn-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-<h2> GitHub Stats </h2>
+### Backend, Frontend & APIs
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+### Cloud, Data & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/HBase-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
+</p>
+
+### Engineering Practices
+<p>
+  <img src="https://img.shields.io/badge/System%20Design-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/End--to--End%20Testing-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code%20Reviews-0F766E?style=flat-square" />
+</p>
+
+---
+
+## Featured Projects
+
+My pinned repositories below highlight a mix of cloud, backend, full-stack, AI, and scalable application projects.
+
+- **Virtual Cinema**: Low-latency watch-party platform with real-time video synchronization, chat, and serverless AWS backend.
+- **Smart Photo Album**: AI-powered cloud photo gallery using AWS Lex, Rekognition, S3, and OpenSearch for voice/text search.
+- **EnsurePrice**: Built a Heroku-deployed healthcare SaaS platform with Ruby on Rails to reduce user research time, featuring insurance cost estimation, in-network doctor search, provider reviews, Q&A workflows, and strong test coverage.
+- **Restaurant Concierge AI ChatBot**: Serverless event-driven chatbot using AWS Lex, Lambda, SQS, SNS, DynamoDB, and OpenSearch.
+- **CityScout**: GPT-powered neighborhood recommendation app that recommends city neighborhoods based on user preferences.
+
+---
+## Currently Exploring
+
+- Building polished full-stack products with AI-assisted workflows
+- Designing reliable backend systems and scalable cloud applications
+- Improving developer workflows through automation, testing, and documentation
+- Applying AI and machine learning to practical product experiences
+
+---
+
+## Connect with Me
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yukti99" align="center"/>
-</p>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukti99&theme=github" align="center"/>
-</p>
-
-
-<h2> Top Languages </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukti99&layout=compact" align="center"/>
-</p>
-
-<div style="text-align: center; margin: 50px 0;">
-  <h2 style="font-size: 3em; color: #2d2d2d; font-weight: bold; margin-bottom: 20px;">Professional Profile</h2>
- <p align="center">
-  <a href="https://www.linkedin.com/in/yukti99/" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn Badge" 
-      style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);"
-    />
+  <a href="https://www.linkedin.com/in/yukti99/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yukti%20Khurana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- </p>
-</div>
-
-
-<!-- <a href="https://github.com/yukti99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp;
- -->
+  <a href="mailto:yuktikhurana99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khurana.yukti99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
